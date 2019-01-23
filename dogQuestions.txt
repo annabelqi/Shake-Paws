@@ -1,0 +1,12 @@
+How big is your property?
+large,small
+Are you okay lots of barking?
+yes,no
+What level of walking are you looking for?
+high,low
+Are you okay with shedding?
+yes,no
+Do you want a dog that is aggressive?
+yes,no
+Do you want a dog that is already vaccinated?
+yes,no

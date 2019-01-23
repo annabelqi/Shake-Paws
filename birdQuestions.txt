@@ -1,0 +1,10 @@
+What size cage can you provide?
+small,medium,large
+How often can you take your bird to be trimmed?
+once per week,once per month
+Do you want a bird that is already vaccinated?
+yes,no
+Do you want a bird that flies a lot?
+yes,no
+Do you want a bird that may bite/nibble?
+yes,no

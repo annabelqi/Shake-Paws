@@ -1,0 +1,8 @@
+Would you prefer a fish that needs higher or lower water temperatures?
+high,low
+Would you prefer a fish that needs higher or lower oxygen levels?
+high,low
+What kind of water type can you provide?
+tap,filtered, saltwater
+Do you mind a fish that is territorial?
+yes,no

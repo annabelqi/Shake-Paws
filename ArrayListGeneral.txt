@@ -1,0 +1,8 @@
+Species
+Sex
+Age
+Weight
+Height
+Lifespan
+Cost
+Diet

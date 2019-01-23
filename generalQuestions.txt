@@ -1,0 +1,14 @@
+What is your purchase price budget?
+100,200,300
+What is your cost per month budget?
+25,50,100,150
+Do you prefer a small or large pet?
+Small,Big
+Do you prefer a high or low maintenance pet?
+Low,High
+How much space can you provide for your pet?
+High,Low
+What is your prefered lifespan for a pet in years?
+3,4,8,10
+Do you want a pet that sheds?
+Yes,No

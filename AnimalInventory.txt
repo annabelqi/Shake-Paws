@@ -1,0 +1,24 @@
+Dog Sophie
+General Attributes:sex-female,age-3,height-132,weight-10,price-300,cost-70,diet-kibble
+Specific Attributes:space-large,barking-yes,walk-high,neutered-no,sheds-yes,aggressive-yes,vaccinated-yes
+
+Cat Oreo
+General Attributes:sex-male,age-7,height-0.5,weight-5,price-200,cost-50,diet-semimoist
+Specific Attributes:litterbox-yes,neutered-no,sheds-yes,vaccinated-yes,declawed-yes
+
+Fish Bubbles
+General Attributes:sex-female,age-2,height-0.05,weight-0.002,price-10,cost-2,diet-flake
+Specific Attributes:watertemp-low,oxygen-low,watertype-tap,violent-no
+
+Bird Eagle
+General Attributes:sex-male,age-3,height-0.5,weight-2,price-1000,cost-30,diet-seed
+Specific Attributes:cage-medium,wingtrim-once per month,vaccinated-yes,fly-yes,bite-yes
+
+Dog Mark
+General Attributes:sex-male,age-10,height-80,weight-4,price-200,cost-30,diet-canned
+Specific Attributes:space-small,barking-no,walk-low,neutered-yes,sheds-no,aggressive-no,vaccinated-yes
+
+Fish Goldie
+General Attributes:sex-female,age-5,height-0.07,weight-0.009,price-20,cost-2,diet-flake
+Specific Attributes:watertemp-low,oxygen-low,watertype-tap,violent-no
+

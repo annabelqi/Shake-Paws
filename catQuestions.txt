@@ -1,0 +1,10 @@
+Can you provide your cat with a litterbox?
+yes,no
+Do you want a cat that is already neutered?
+yes,no
+Do you mind a cat that sheds?
+yes,no
+Do you want a cat that is already vaccinated?
+yes,no
+Do you want a cat that is declawed?
+yes,no
